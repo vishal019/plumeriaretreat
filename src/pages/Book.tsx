@@ -267,7 +267,7 @@ const Book: React.FC = () => {
               </CardContent>
             </Card>
 
-            {/* Meal Plan Selection */}
+            {/* Meal Plan Selection
             <Card>
               <CardContent>
                 <h2 className="text-2xl font-bold mb-4 text-brunswick-green">Select Meal Plan</h2>
@@ -296,7 +296,7 @@ const Book: React.FC = () => {
                   ))}
                 </div>
               </CardContent>
-            </Card>
+            </Card> */}
 
             {/* Activities Selection */}
             <Card>
